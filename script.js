@@ -6,6 +6,6 @@ function logar() {
         alert("sucesso");
         location.href = "https://www.microsoft.com/pt-br/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f%3frealm%3dhotmail.com&sdf=0"
     } else {
-        alert("usuario  e senha  incorreta ");
+        alert("usuario  e senha  incorreta");
     }
 }
